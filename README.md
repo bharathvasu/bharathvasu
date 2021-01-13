@@ -5,7 +5,7 @@
   <a href="https://twitter.com/vvbharathvasu">Twitter</a>
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="gif/character_student.gif" />
+<img align="right" height="150rem" alt="GIF" src="gif/bharath.gif" />
 
 **Brief introduction about Me:**
 
