@@ -45,6 +45,11 @@
 <br />
 
 
+📊 **This week I spent my time on**
+
+[![bharathvasu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bharathvasu)](https://github.com/bharathvasu/bharathvasu)
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bharathvasu/count.svg" />
