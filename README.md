@@ -47,7 +47,7 @@
 
 📊 **This week I spent my time on**
 
-[![bharathvasu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bharathvasu)](https://github.com/bharathvasu/bharathvasu)
+[![bharathvasu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bharathsharma_45)](https://github.com/bharathvasu/bharathvasu)
 
 
 <p align="center"> 
