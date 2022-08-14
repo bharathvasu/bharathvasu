@@ -9,9 +9,9 @@
 
 **Brief introduction about Me:**
 
-- 📝  I'm a JavaScript developer.
-- 😎  I've done some cool projects on Python and JavaScript.
-- 🌱  I'm currently learning JavaScript.
+- 📝  I'm a Devops Engineer.
+- 🌱  I'm currently learning Docker, Kubernetes.
+- 😎  I've done Projects on Python and JavaScript.
 - 📫  Reach me  at: bharath16111999@gmail.com.
 
 ***
